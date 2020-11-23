@@ -122,6 +122,7 @@
 | [Servier Medical Art](https://smart.servier.com) | <img src="../../../flags/eua.png" width="40px"> |
 | [Clker](http://www.clker.com) | <img src="../../../flags/eua.png" width="40px"> |
 | [SVG wave](https://svgwave.in/) | <img src="../../../flags/eua.png" width="40px"> |
+| [Stick png](https://www.stickpng.com/) | <img src="../../../flags/eua.png" width="40px"> |
 
 ## 😛 Emojis
 > Recursos para emojis
